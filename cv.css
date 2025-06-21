@@ -1,0 +1,16 @@
+.box {
+     padding-right: 53%;
+
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+hr {
+    width: 48%;
+    text-align: left;
+    margin-left: 0;
+    margin-top: 2%;
+    }
